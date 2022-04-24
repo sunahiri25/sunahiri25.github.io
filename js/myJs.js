@@ -2,7 +2,7 @@ const textConfig = {
   text1: "He luu cậu!",
   text2: "Tớ có điều này muốn hỏi, cậu nhớ phải trả lời thật lòng nhaaa:3333",
   text3: "Cậu iu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm ny tớ gòi đó nha",
+  text4: "Nếu cậu khum trả lời mà thoát ra tức là muốn làm ny tớ gòi đó nha",
   text5: "Hong bé ơi",
   text6: "Iu ơi là iu",
   text7: "Lí do cậu iu tớ là gì zay",
@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Vì cậu dễ thương vlll:>>",
   text10: "Tớ biết mà :>> Iu cậu x1000.000",
   text11:
-    "Mai tớ qua nhà cậu chơi nha. Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
+    "Mai tớ qua nhà cậu chơi nha. Còn giờ thì chờ gì nữa mà hong inbox cho tớ đi nàooo",
   text12: "Okii lunn <3",
 };
 
